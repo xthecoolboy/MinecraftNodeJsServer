@@ -1,6 +1,7 @@
 const mcServer = require('flying-squid');
 const port = process.env.PORT || 3000;
 
+console.log("IP: "+ process.env.IP);
 mcServer.createMCServer({
     'motd': 'A Minecraft Server \nRunning flying-squid',
     'port': port,
