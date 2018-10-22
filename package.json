@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Blaud/MinecraftNodeJsServer#readme",
   "dependencies": {
-    "express": "^4.16.4",
     "flying-squid": "^1.1.2"
   }
 }
